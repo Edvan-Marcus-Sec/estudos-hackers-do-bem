@@ -1,0 +1,20 @@
+{
+  "Version": "2026-03-01",
+  "Statement": [
+    {
+      "Sid": "PermitirLeituraHackersDoBem",
+      "Effect": "Allow",
+      "Action": [
+        "s3:Get*",
+        "s3:List*"
+      ],
+      "Resource": "arn:aws:s3:::bucket-projeto-final/*"
+    },
+    {
+      "Sid": "NegarExclusaoCritica",
+      "Effect": "Deny",
+      "Action": "s3:DeleteBucket",
+      "Resource": "*"
+    }
+  ]
+}
