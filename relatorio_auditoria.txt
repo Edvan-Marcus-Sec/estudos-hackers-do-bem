@@ -1,0 +1,15 @@
+
+==================================================
+🛡️  RELATÓRIO DE IDENTIDADES E PRIVILÉGIOS (IAM)  🛡️
+==================================================
+
+👤 USUÁRIO: root            | 👥 GRUPOS: root : root
+👤 USUÁRIO: nobody          | 👥 GRUPOS: nobody : nogroup
+👤 USUÁRIO: picole          | 👥 GRUPOS: picole : picole adm dialout cdrom floppy sudo audio dip video plugdev users netdev scanner bluetooth lpadmin wireshark kaboxer
+👤 USUÁRIO: teste1          | 👥 GRUPOS: teste1 : teste1 contabilidade
+👤 USUÁRIO: aluno           | 👥 GRUPOS: aluno : aluno sudo users
+
+==================================================
+✅ Auditoria de Contas Finalizada
+==================================================
+
