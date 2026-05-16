@@ -23,7 +23,7 @@ def listar_usuarios_e_grupos():
                     print(f"👤 USUÁRIO: {usuario.ljust(15)} | 👥 GRUPOS: {resultado}")
                     
     except Exception as e:
-        print(f"❌ Erro ao processar identidades: {e}")
+        print(f"❌Erro ao processar identidades: {e}")
 
 if __name__ == "__main__":
     listar_usuarios_e_grupos()
