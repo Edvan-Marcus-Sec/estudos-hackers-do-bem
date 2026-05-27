@@ -1,5 +1,5 @@
 # 🛡️ Formação Hackers do Bem - Portfólio de Estudos
-Repositório dedicado ao armazenamento de scripts, laboratórios e anotações teóricas do programa **Hackers do Bem**. Foco em Segurança da Informação, Automação e práticas de **DevSecOps**.
+Repositório dedicado ao armazenamento de scripts, laboratórios e anotações teóricas do programa **Hackers do Bem**. Foco em Segurança da Informação, Automação e práticas de **Blue Team**.
 
 ---
 
